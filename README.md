@@ -1,0 +1,2 @@
+# lynq
+lynq landing page
