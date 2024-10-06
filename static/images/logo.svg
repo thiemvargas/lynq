@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <text x="10" y="40" font-family="Montserrat, sans-serif" font-size="40" font-weight="bold" fill="#1E3A8A">
+    Lynq
+  </text>
+  <path d="M180 30 L190 20 L200 30" stroke="#10B981" stroke-width="3" fill="none"/>
+</svg>

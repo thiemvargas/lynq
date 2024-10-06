@@ -1,0 +1,34 @@
+# Spanish translations for Lynq Coming Soon page.
+# Copyright (C) 2023 Lynq
+# This file is distributed under the same license as the Lynq project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-07 12:00+0000\n"
+"PO-Revision-Date: 2023-05-07 12:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+msgid "subscription_successful"
+msgstr "¡Gracias por suscribirte!"
+
+msgid "subscription_error"
+msgstr "Ocurrió un error. Por favor, inténtalo de nuevo."
+
+msgid "email_required"
+msgstr "Por favor, proporciona una dirección de correo electrónico."
+
+msgid "invalid_email"
+msgstr "Por favor, proporciona una dirección de correo electrónico válida."
+
+msgid "email_already_subscribed"
+msgstr "Esta dirección de correo electrónico ya está suscrita."
